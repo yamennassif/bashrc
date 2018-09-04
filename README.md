@@ -8,9 +8,9 @@ It has many usefull (common) aliases such as q (exit) and cs (clear and list fil
 
 Installation
 ------------
-1- Download the file or git clone this repo.
-2- copy this file to your home directory: cp bashrc ~/.bashrc
-3- source ~/.bashrc
+1. Download the file or git clone this repo.
+2. copy this file to your home directory: cp bashrc ~/.bashrc
+3. source ~/.bashrc
 
 License
 -------
