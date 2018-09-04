@@ -27,7 +27,7 @@ alias dtop='cd ~/Desktop'
 alias svim='sudo vim'
 alias install='apt-get install'
 alias sinstall='sudo apt-get install'
-
+alias ports='netstat -tunlp"
 ## exports
 export EDITOR=vim
 # user/host pwd and time as prompt
