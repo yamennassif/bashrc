@@ -3,6 +3,7 @@
 ## Description
 This is my used bashrc file on ubuntu.
 It has many usefull (common) aliases such as q (exit) and cs (clear and list files), a way to go through directories, exporting some default values.
+
 very usefull for new comers to linux or fresh installments on servers or even experienced people ;)
 
 ## Installation
