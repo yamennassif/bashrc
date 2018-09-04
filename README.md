@@ -2,7 +2,8 @@
 
 ## Description
 This is my used bashrc file on ubuntu.
-It has many usefull (common) aliases such as q (exit) and cs (clear and list files), a way to go through directories, exporting some default values
+It has many usefull (common) aliases such as q (exit) and cs (clear and list files), a way to go through directories, exporting some default values.
+very usefull for new comers to linux or fresh installments on servers or even experienced people ;)
 
 ## Installation
 1. Download the file or git clone this repo.
@@ -11,7 +12,7 @@ It has many usefull (common) aliases such as q (exit) and cs (clear and list fil
 
 
 ## For git users
-4. uncomment the line `source ~/.bashprompt-for-git.sh` in .bashrc file and put this file .bashprompt-for-git.sh in your user directory.
+4. uncomment the line `source ~/.bashprompt-for-git.sh` in .bashrc file and put this file .bashprompt-for-git.sh in your home directory.
 
 ## Functions
 
