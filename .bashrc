@@ -1,3 +1,6 @@
+source /etc/skel/.bashrc
+## If you are using git uncommit the following line so you will get on which branch you are next to prompt
+# source ~/.bashprompt-for-git.sh
 ### My aliases
 ## common commands
 alias q='exit'
