@@ -12,6 +12,11 @@ Installation
 2. copy this file to your home directory: cp bashrc ~/.bashrc
 3. source ~/.bashrc
 
+
+For git users
+------------
+4. uncomment the line `source ~/.bashprompt-for-git.sh` in .bashrc file and put this file .bashprompt-for-git.sh in your user directory
+
 License
 -------
 THE BEER-WARE LICENSE (Revision 42):
