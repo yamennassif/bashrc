@@ -20,6 +20,10 @@ very usefull for new comers to linux or fresh installments on servers or even ex
 1. #### docker 
 - `goinside <container_name>` this function will help you use the terminal inside docker containers with no size issues
 
+2. #### search
+- `findh <string>` this function will search the current path and subpathes for a file by name or subtext of the name; h for here 
+- `finda <string>` this function will search the root path and subpaths (means all accissable paths) for a file by name or subtext of the name; a for all
+
 ## License
 
 THE BEER-WARE LICENSE (Revision 42):

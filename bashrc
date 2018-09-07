@@ -44,3 +44,15 @@ goinside(){
 }
 export -f goinside
 
+# next function is to search the currect directory for a file by name or subtext of the name
+findh(){
+    find . -name "*$1*"
+}
+export -f findh
+
+
+# next function is to search everywhere for a file by name or subtext of the name this one requires root 
+finda(){
+    sudo find / -name "*$1*"
+}
+export -f finda
